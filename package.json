@@ -1,0 +1,23 @@
+{
+  "name": "facenode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frosh-li/qcloudsdk.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/frosh-li/qcloudsdk/issues"
+  },
+  "homepage": "https://github.com/frosh-li/qcloudsdk#readme",
+  "dependencies": {
+    "cos-nodejs-sdk-v5": "^2.2.6",
+    "request": "^2.83.0"
+  }
+}
